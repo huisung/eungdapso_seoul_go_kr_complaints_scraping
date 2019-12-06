@@ -1,2 +1,4 @@
-# eungdapso_seoul_go_kr_complaints_scraping
-파이썬 서울시 민원(응답소) 스크래핑 (python seoul complaints scraping)
+# 서울시 민원(응답소) 데이터 가져오기
+
+- 참고사이트 코드를 수정하여 작성
+- 참고 : [[파이썬] BS4 서울시 응답소 크롤링](https://systemtrade.tistory.com/350)
